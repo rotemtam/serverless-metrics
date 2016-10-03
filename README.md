@@ -65,3 +65,7 @@ ServerlessMetrics.getGatewayMetrics('gateway_id', 'stage_name', HOURS_TO_GET)
 */
 
 ```
+
+### License
+
+MIT
