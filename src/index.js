@@ -119,5 +119,6 @@ function getMetricsForResource(params) {
 
 
 module.exports = {
+  DescribeGateway: DescribeGateway,
   getGatewayMetrics: getGatewayMetrics
 }
